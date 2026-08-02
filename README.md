@@ -246,6 +246,7 @@ AI-URL-Threat-Detector/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 ⚙️ Installation
 1. Clone the Repository
 git clone https://github.com/YOUR_USERNAME/AI-URL-Threat-Detector.git
@@ -296,7 +297,7 @@ Example:
 URL,Label
 https://www.google.com,good
 https://example.com/login,good
-http://malicious-example.xyz/verify,bad
+http://malicious-example.xyz/verify,bad, etc.
 
 The preprocessing pipeline automatically detects common URL and label column names.
 
