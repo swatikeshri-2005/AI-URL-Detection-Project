@@ -215,15 +215,16 @@ The model correctly detected 21,735 malicious URLs in the test set.
 AI-URL-Threat-Detector/
 │
 ├── data/
-│   └── urls.csv
+│   └──phishing_site_urls.csv
 │
 ├── models/
 │   ├── url_classifier.pkl
 │   ├── tfidf_vectorizer.pkl
+|   |--security_feature_names.pkl
 │   └── feature_scaler.pkl
 │
 ├── notebooks/
-│   └── url_analysis.ipynb
+│ 
 │
 ├── src/
 │   ├── __init__.py
