@@ -1,4 +1,4 @@
-AI-URL-Threat-Detector/README.md
+AI-URL-Threat-Detector
 # 🛡️ AI Cyber Threat Detector
 
 ### Phishing & Malicious URL Detection using NLP and Machine Learning
